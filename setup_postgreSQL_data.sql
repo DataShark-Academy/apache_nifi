@@ -33,6 +33,7 @@ INSERT INTO employees (emp_no, birth_date, first_name, last_name, gender, hire_d
 (10020, '1952-12-24', 'Mayuko', 'Warwick', 'M', '1991-01-26');
 
 
+
 CREATE TABLE veteran_employees (
   emp_no int NOT NULL,
   birth_date date NOT NULL,
