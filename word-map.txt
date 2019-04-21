@@ -1,0 +1,5 @@
+APACHE	Apache
+nifi	NIFI
+Nifi	NIFI
+10000	10,000
+30000	30,000
